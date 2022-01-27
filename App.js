@@ -12,4 +12,4 @@ app.get('/series', function(req, res) {
   res.send(response)
 })
 
-app.listen(4003);
+app.listen(4002);
