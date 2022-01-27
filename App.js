@@ -7,7 +7,7 @@ app.get('/',function(req,res) {
 
 app.get('/series', function(req, res) {
   const response = [
-    'Mouse', 'Demon Slayer', 'The Office', 'Friends', 'Ba reum', 'Semal'
+    'Mouse', 'Demon Slayer', 'The Office', 'Friends', 'Ba reum', 'Semal', 'oo'
   ]
   res.send(response)
 })
